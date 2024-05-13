@@ -5,4 +5,21 @@ The project involved analysing loans provided by a financial institution to cust
 
 [View Project Findings/Insights (PDF File)](https://drive.google.com/file/d/1B017PVTa1yh83Nl43o6wqGDvz0BCSbSg/view?usp=drive_link)
 
-![Screenshot (32)](https://github.com/shraddhasangave99/Bank-Analytics/assets/153710836/b5c320aa-5f4c-4fba-8a96-41ce82fd0fe9)
+![Screenshot (32)](https://github.com/shraddhasangave99/E-commerce_Analytics/assets/153710836/0bcfc1a3-64a3-4edf-bdb7-c79bcd95587e)
+
+## Overview
+
+▪️ Summarized and visualized the data to identify patterns, trends, and relationships.
+
+▪️ Identified, assessed, and mitigated various types of risks including credit, market, operational, and compliance risks.
+
+▪️ Provided recommendations on actions to achieve desired outcomes based on predictive insights.
+
+▪️ Continuously monitored and optimized models and strategies to maintain desired results. For that Utilized tools like Excel, Power BI, Tableau, and SQL.
+
+## Excel Dashboard
+
+![Screenshot (35)](https://github.com/shraddhasangave99/E-commerce_Analytics/assets/153710836/64084027-0140-4b9a-9309-65509b8b8f4e)
+
+
+
